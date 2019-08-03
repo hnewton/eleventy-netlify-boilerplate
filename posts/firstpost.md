@@ -1,7 +1,7 @@
 ---
-title: This is my new post
+title: This is my best post
 date: 2015-01-01T00:00:00.000Z
-summary: Why contemplating our mortality can be a powerful catalyst for change
+summary: Why I do what I do?
 tags:
   - post
   - tech
